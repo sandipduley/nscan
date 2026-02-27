@@ -47,7 +47,7 @@ cd nscan
 
 ```bash
 chmod +x nscan
-sudo mv nscan /usr/local/bin/nscan
+sudo cp nscan /usr/local/bin/nscan
 ```
 
 ## Verify installation
@@ -78,4 +78,4 @@ nscan example.com -T4
 
 ## Disclaimer
 
-This tool is intended for authorized security testing and educational purposes only. Do not scan systems without permission.
+## This tool is intended for authorized security testing and educational purposes only. Do not scan systems without permission.
